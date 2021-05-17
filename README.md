@@ -8,7 +8,7 @@ The aim of this project was learning the facial expression from an image using a
 
 ## Overall Pipeline of the Project
 
-![overall pipeline](images/Pipeline.png)
+![overall pipeline](Images/Pipeline.png)
 
 ### Face Detection
 
