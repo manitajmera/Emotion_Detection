@@ -4,7 +4,7 @@
 
 ## Aim & Ideation
 
-The aim of this project was learning the facial expression from an image using a CNN(convolutional neural network) model. The emotion detected was further used to play songs for the user according to the mood. 
+The aim of this project was to learn facial expressions from an image using a CNN(convolutional neural network) model. The emotion detected was further used to play songs for the user according to the mood. 
 
 ## Overall Pipeline of the Project
 
