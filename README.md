@@ -64,7 +64,7 @@ The video demonstration of this project can be found [here](https://drive.google
 
 ## References
 
-1. _Emotion Detection using Image Processing in Python _
+1. _Emotion Detection using Image Processing in Python_
    * **Link** : [https://arxiv.org/abs/2012.00659]
    * **Authors** : Raghav Puri, Archit Gupta, Manas Sikri, Mohit Tiwari, Nitish Pathak, Shivendra Goel
    * **Tags** : Computer Vision and Pattern Recognition
