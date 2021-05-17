@@ -1,0 +1,15 @@
+Keras==2.1.2
+pafy==0.5.5
+gTTS==2.2.2
+pandas==1.2.4
+playsound==1.2.2
+opencv_python==4.2.0.34
+python_vlc==3.0.12118
+mlxtend==0.18.0
+numpy==1.18.5
+tensorflow==2.3.0
+keyboard==0.13.5
+Keras_Preprocessing==1.1.2
+matplotlib==3.2.2
+Pillow==8.2.0
+scikit_learn==0.24.2
